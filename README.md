@@ -1,4 +1,4 @@
-Hotels Reviews Classification Course Project
+# Hotels Reviews Classification Course Project
 
 This repository contains the code and files for the Hotels Reviews Classification Course Project, which was developed as part of the CCAI 413 Natural Language Processing course.
 
